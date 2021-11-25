@@ -1,12 +1,16 @@
-# Olá! 👋
+# Olá! ⭐
 
 
  - 🎓 Atualmente estudando Análise e Desenvolvimento de Sistemas
  - 💻 Aprendendo mais sobre Front End
+ \
+ \
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lais-correa&layout=compact&theme=dracula)](https://github.com/lais-correa)
+
 
 
 ### Tecnologias que estou aprendendo:
-<div style = "display: inline_block"><br/>
+<div style = "display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height = "40" width = "40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height = "40" width = "40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = "40" width = "40" />
