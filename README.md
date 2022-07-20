@@ -5,7 +5,7 @@
  - 💻 Aprendendo mais sobre Front End
  \
  \
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lais-correa&layout=compact&theme=dracula)](https://github.com/correalais)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=correalais&layout=compact&theme=dracula)](https://github.com/correalais)
 
 
 
