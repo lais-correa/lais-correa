@@ -27,4 +27,4 @@
 
 
 
-![Snake animation](https://github.com/lais-correa/lais-correa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/correalais/correalais/blob/output/github-contribution-grid-snake.svg)
